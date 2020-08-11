@@ -11,7 +11,7 @@ namespace BethanysPieShop.Models
 
         IEnumerable<Pie> PiesOfTheWeek { get; }
 
-        Pie GetPieById(int pieID);
+        Pie GetPieById(int pieId);
 
     }
 }
