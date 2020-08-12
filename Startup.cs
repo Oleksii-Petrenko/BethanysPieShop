@@ -61,7 +61,7 @@ namespace BethanysPieShop
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller}/{action}/{id?}");
+                    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 
             });
