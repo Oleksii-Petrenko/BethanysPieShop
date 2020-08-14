@@ -14,20 +14,20 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 #line 1 "D:\AAA\practice\BethanysPieShop\Views\_ViewImports.cshtml"
-using BethanysPieShop.ViewModels;
+using BethanysPieShop.Models;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 2 "D:\AAA\practice\BethanysPieShop\Views\_ViewImports.cshtml"
-using BethanysPieShop.Models;
+using BethanysPieShop.ViewModels;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"89c59538168a829563ea3f11f43d1dffc2c41916", @"/Views/Pie/List.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"01db8a45c9a9df186781c59af7968a5a8c6b6f89", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"91764d49af2aa3b22c48db32a6a24346ac58b4df", @"/Views/_ViewImports.cshtml")]
     public class Views_Pie_List : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<PiesListViewModel>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("name", "_PieCard", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);

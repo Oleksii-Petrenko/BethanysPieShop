@@ -139,3 +139,7 @@ D:\AAA\practice\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\Pie\Details.
 D:\AAA\practice\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_PieCard.cshtml.g.cs
 D:\AAA\practice\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
 D:\AAA\practice\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Carousel.cshtml.g.cs
+D:\AAA\practice\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+D:\AAA\practice\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+D:\AAA\practice\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
+D:\AAA\practice\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\Contact\Index.cshtml.g.cs
